@@ -1,20 +1,10 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanta-kimura
-)](https://github.com/anuraghazra/github-readme-stats)
+- 🐹 I am a system engineer in Japan.
+- 🐹 I mainly implement frontend and backend systems.
 
+## Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,js,ts,react,redux,wordpress,python,django,java,spring,mysql,postgres,aws,xd" />
 
-<!--
-**kanta-kimura/kanta-kimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Homepage
+https://alpaca-itc.com
